@@ -1,0 +1,103 @@
+body {
+    background-color: #f2f6ff;
+  }
+  
+  body,
+  html {
+    width: 100%;
+    height: 100%;
+  }
+  .sign__up{
+    background-color: #F44E77;
+    border-radius: 10px;
+    color: white;
+    border-color:transparent ;
+    
+  }
+  .title {
+    font-size: 40px;
+    color: white;
+  }
+  .content {
+    color: white;
+    font-size: 18px;
+  }
+  .section-1{
+    width: 100%;
+    height: 100%;
+    background-image: url(./images/background.png);
+    background-size: 100% 95%;
+    background-repeat: no-repeat;
+
+  }
+  .reg{
+    background: #16194F;
+    border-radius: 10px;
+    color: white;
+    border: 0px;    
+  }
+  .reg:hover {
+    background-color: white;
+    color: black;
+  }
+  .phone{
+    margin-top: -6rem;
+  }
+  .title-2{
+    color: #554dde;
+    font-weight: bold;
+  }
+  .content-2{
+    color: #6A6D9E;
+    line-break: 4px; ;
+  }
+  .title-3{
+    font-weight: bold;
+    color: #554DDE;
+
+  }
+  .content-3{
+    color: #6A6D9E;
+  }
+  .bg{
+   z-index: 1;
+  }
+
+  .title-4{
+    font-weight: bold;
+    color: #554DDE;
+
+  }
+  .content-4{
+    color: #6A6D9E;
+  }
+  .bg-2 {
+    background-image: url(./images/BG2.png);
+    background-size: 150% 100%;
+    background-position: 90% 90%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .btn-card {
+    border: 2px solid #16194f;
+  }
+  .content-5{
+    background-color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    width: 60%;
+    height: 20%;
+    border-radius: 15px;
+    box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+  }
+.copyright{
+  
+  color: #6A6D9E;
+
+}
+  
+.links{
+  text-decoration: none;
+  color: #16194F;
+  font-size: 18px;
+}
